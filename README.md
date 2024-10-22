@@ -41,7 +41,7 @@ git clone (https://github.com/AniketSr-git/Recommender-Systems---Restaurants-in-
  - Experiment with hybrid models that combine collaborative filtering and content-based methods.
 # Conclusion
  This project highlights key insights from the analysis of restaurant reviews:
-![Positive Reviews](Images/Positive_Reviews)
+![Positive Reviews](Images/Positive_Reviews.png)
 - **Positive Reviews**:
   - Great food
   - Decent ambiance
