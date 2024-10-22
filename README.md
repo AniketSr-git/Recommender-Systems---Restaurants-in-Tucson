@@ -34,8 +34,9 @@ This project demonstrates the creation of a Recommender System using various Nat
 # How to Use the Project
 1. Clone this repository:
 git clone (https://github.com/AniketSr-git/Recommender-Systems---Restaurants-in-Tucson).git
-2. Open the individual notebooks in Jupyter or any preferred environment.
-3. Follow the notebooks sequentially to understand data processing, analysis, and the development of the Recommender System.
+2. Open the requirements file to install the necessary libraries, before running the jupyter files in your system.
+3. Open the individual notebooks in Jupyter or any preferred environment.
+4. Follow the notebooks sequentially to understand data processing, analysis, and the development of the Recommender System.
 # Future Work
  - Incorporate more advanced machine learning algorithms like neural networks for improved recommendation.
  - Experiment with hybrid models that combine collaborative filtering and content-based methods.
