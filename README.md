@@ -10,7 +10,7 @@ This project demonstrates the creation of a Recommender System using various Nat
 - **Recommender System Models**: Collaborative filtering (both user-based and item-based) and content-based filtering approaches are explored.
 - **Tools**: Python, Pandas, NLTK, Scikit-learn, LDA, NMF, RecommenderLab.
 # How the Data is Processed
-[Alt Text]("C:\gitrepo\Recommender-Systems---Restaurants-in-Tucson\Images\Stats.png")
+[Alt Text](Images\Stats.png)
  1. **Data Preprocessing**: 
    - Tokenized and cleaned text data to remove stop words, punctuation, and other noise.
    - Used TF-IDF (Term Frequency-Inverse Document Frequency) to convert text into numerical features for further analysis.
