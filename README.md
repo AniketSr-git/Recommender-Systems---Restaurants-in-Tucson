@@ -1,5 +1,6 @@
 # Project Title
  Recommender Systems with NLP and Sentiment Analysis
+ ![Word Cloud for the data](Images/Word_Cloud.png)
 # Project Overview
 This project demonstrates the creation of a Recommender System using various Natural Language Processing (NLP) techniques, Sentiment Analysis, and Topic Modeling to enhance user recommendations. The goal is to analyze user reviews and build a recommendation system that leverages user preferences and text data insights.
 # Techniques and Tools Used
